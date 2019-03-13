@@ -1,0 +1,52 @@
+.container{
+	width: 80%
+}
+.contain{
+	width:30%;
+
+}
+.one{
+	background-color: green;
+	float:left;
+	height:300px;
+	width: 100px;
+}
+.two{
+	background-color: white;
+	float:left;
+	height:300px;
+	width: 100px;
+}
+.three{
+	background-color: green;
+	float:left;
+	height:300px;
+	width: 100px;
+}
+.side{
+	width:30%;
+	float:left;
+	margin-left: 30%;
+
+}
+.first{
+	background-color: blue;
+	height:100px;
+	width: 200px;
+	margin-bottom: 0px;
+}
+.second{
+	background-color: yellow;
+	height:100px;
+	width: 200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+.third{
+	background-color: red;
+	height:100px;
+	width: 200px;
+	margin-top: 0px;
+
+}
